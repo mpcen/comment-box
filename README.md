@@ -8,3 +8,5 @@ React + Redux + Mocha + Chai + Webpack + Webpack-dev-server
 	> npm install
 	> npm start
 ```
+
+Run on http://localhost:8080
